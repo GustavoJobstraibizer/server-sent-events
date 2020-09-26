@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sse-angular"
+    }
+  },
+  "defaultProject": "sse-angular",
+  "cli": {
+    "analytics": false
+  }
 }
